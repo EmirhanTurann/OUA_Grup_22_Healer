@@ -127,7 +127,7 @@ paylaşarak feedbackler verilmiştir.
 
 ---
 - **Sprint içinde tamamlanması tahmin edilen puan**: 170 Puan
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. son sprint'e 150 puanluk tamamlama yapılmıştır. 20 tamalama puanı kalmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. son sprint'e 150 puanlık tamamlama yapılmıştır. 20 tamamlama puanı kalmıştır.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan
 - 
 Daily Scrum: 
