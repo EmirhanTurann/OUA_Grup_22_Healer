@@ -155,11 +155,12 @@ paylaşarak feedbackler verilmiştir.
 ![sondurum1](https://github.com/user-attachments/assets/fe453600-db9f-4b06-92ac-3bf728f89adb)
 ![sondurum2](https://github.com/user-attachments/assets/6eb5868d-5cef-48a1-a4fd-f9f2b46f66ca)
 ![sondurum3](https://github.com/user-attachments/assets/0203f2e6-1395-436f-bc7c-7237eec987c9)
-https://www.youtube.com/watch?v=sV5VMB04pvc
+
  **Sprint Review**:
 - Level tasarımlarının nasıl olaması gerektiğine ve dövüş mekaniniğinin iptal edilmesine karar verildi.
 
  **Sprint Retrospective**:
 - Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
 
-
+- **Trailer **:
+https://www.youtube.com/watch?v=sV5VMB04pvc
