@@ -37,7 +37,15 @@ Healer
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVK5W5Vmk=/)
+---
 
+  
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+---
 ---
 
 # Sprint 1
@@ -47,15 +55,7 @@ Healer
 - Oyunun görsel tarzı lowpoly olarak belirlendi.
 - Oyunun türü action-platformer olarak belirlendi.
 - Oyunda minigameslerin olması gerektiğine karar verildi.
----
 
-  
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
----
 - **Toplantı Screenshotları**:
  ([https://imgur.com/a/VXKypX8](https://imgur.com/a/VXKypX8))
 
@@ -78,9 +78,6 @@ Healer
  **Sprint Retrospective**:
 - Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verilmiştir.
 
-
--**Diğer Notlar**:
-- N/A
 
 ---
 
@@ -123,9 +120,6 @@ paylaşarak feedbackler verilmiştir.
  **Sprint Retrospective**:
 - Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
 
-
--**Diğer Notlar**:
-- N/A
 
 # Sprint 3
 
