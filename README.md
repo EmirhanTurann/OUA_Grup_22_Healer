@@ -37,19 +37,17 @@ Healer
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVK5W5Vmk=/)
+  
 ---
 
-  
+# Sprint 1
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 ---
----
-
-# Sprint 1
-
 **Sprint Notları**:
 - Proje yönetimi için miro kullanılmasına karar verildi.
 - Oyunun görsel tarzı lowpoly olarak belirlendi.
@@ -82,8 +80,12 @@ Healer
 ---
 
 # Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. ikinci sprint'e 80 puanlık tamamlama yapılmıştır son sprint'e 170 tamamlama puanı kalmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan
+
 
 Daily Scrum: 
 Daily Scrum toplantılarımızı Whatsapp üzerinden
@@ -124,8 +126,10 @@ paylaşarak feedbackler verilmiştir.
 # Sprint 3
 
 ---
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
+- **Sprint içinde tamamlanması tahmin edilen puan**: 170 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. son sprint'e 150 puanluk tamamlama yapılmıştır. 20 tamalama puanı kalmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan
+- 
 Daily Scrum: 
 Daily Scrum toplantılarımızı Whatsapp üzerinden
 gerçekleştirildi.Hafta sonları Discord üzeriden toplatılar yapılmıştır.
@@ -151,7 +155,7 @@ paylaşarak feedbackler verilmiştir.
 ![sondurum1](https://github.com/user-attachments/assets/fe453600-db9f-4b06-92ac-3bf728f89adb)
 ![sondurum2](https://github.com/user-attachments/assets/6eb5868d-5cef-48a1-a4fd-f9f2b46f66ca)
 ![sondurum3](https://github.com/user-attachments/assets/0203f2e6-1395-436f-bc7c-7237eec987c9)
-
+https://www.youtube.com/watch?v=sV5VMB04pvc
  **Sprint Review**:
 - Level tasarımlarının nasıl olaması gerektiğine ve dövüş mekaniniğinin iptal edilmesine karar verildi.
 
