@@ -163,4 +163,9 @@ paylaşarak feedbackler verilmiştir.
 - Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
 
 - **Trailer **:
-https://www.youtube.com/watch?v=sV5VMB04pvc
+
+https://github.com/user-attachments/assets/a5d46689-bc6b-4741-a6cf-bd11dac45aac
+
+
+
+
